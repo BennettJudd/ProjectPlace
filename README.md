@@ -15,8 +15,8 @@ OOP Graphics game spotlight objects with user interaction and gameplay.
 ![SourceCode](https://github.com/BennettJudd/ProjectPlace/blob/main/src/SpaceGame%202.zip)
 
 ### Calculator
-OOP Graphics game spotlight objects with user interaction and gameplay.
-![Calculator display](https://github.com/BennettJudd/ProjectPlace/blob/main/images/Spacegame.png)
-![SourceCode](https://github.com/BennettJudd/ProjectPlace/blob/main/src/SpaceGame%202.zip)
+Functioning Fun design for a calculator
+![Calculator display]()
+![SourceCode]()
 
 
