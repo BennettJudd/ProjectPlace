@@ -16,7 +16,7 @@ OOP Graphics game spotlight objects with user interaction and gameplay.
 
 ### Calculator
 Functioning Fun design for a calculator
-![Calculator display]()
+![Calculator display](https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png)
 ![SourceCode]()
 
 
