@@ -22,16 +22,15 @@ OOP Graphics game spotlight objects with user interaction and gameplay.
 Functioning Fun design for a calculator
 
 ![Calculator display](https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png?raw=true)
-)
+
 ![SourceCode]()
 
 ### ScreenSaver
 
 Functioning Fun design for a calculator
 
-![Screen Saver]([https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png?raw=true](https://github.com/BennettJudd/ProjectPlace/blob/main/images/ScreenSaver.png?raw=true)https://github.com/BennettJudd/ProjectPlace/blob/main/images/ScreenSaver.png?raw=true
-)
-)
+![Screen Saver]([https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png?raw=true])
+
 ![SourceCode]()
 
 
