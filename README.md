@@ -29,7 +29,8 @@ Functioning Fun design for a calculator
 
 Functioning Fun design for a calculator
 
-![Calculator display](https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png?raw=true)
+![Screen Saver]([https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png?raw=true](https://github.com/BennettJudd/ProjectPlace/blob/main/images/ScreenSaver.png?raw=true)https://github.com/BennettJudd/ProjectPlace/blob/main/images/ScreenSaver.png?raw=true
+)
 )
 ![SourceCode]()
 
