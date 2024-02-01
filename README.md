@@ -27,9 +27,9 @@ Functioning Fun design for a calculator
 
 ### ScreenSaver
 
-Functioning Fun design for a calculator
+Simple RNG based screen saver
 
-![Screen Saver]([https://github.com/BennettJudd/ProjectPlace/blob/main/images/Calc.png?raw=true])
+![Screen Saver](https://github.com/BennettJudd/ProjectPlace/blob/main/images/ScreenSaver.png?raw=true)
 
 ![SourceCode]()
 
