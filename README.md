@@ -12,7 +12,7 @@ OOP Graphics game spotlight objects with user interaction and gameplay.
 
 ![Spacegame Menu]()
 
-![Spacegame Gameplay](https://github.com/BennettJudd/ProjectPlace/blob/main/images/Spacegame.png)
+![Spacegame Gameplay](https://github.com/BennettJudd/ProjectPlace/blob/main/images/Spacegame.png?raw=true)
 
 ![Spacegame Gameover]()
 
